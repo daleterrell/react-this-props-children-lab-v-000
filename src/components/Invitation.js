@@ -1,6 +1,6 @@
 import React from 'react';
 
-class Invitation extends React component {
+class Invitation extends React.Component {
   render() {
     return (
       <div>
